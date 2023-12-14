@@ -1,0 +1,14 @@
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\bin\Debug\net8.0\TP_Api.exe
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\bin\Debug\net8.0\TP_Api.deps.json
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\bin\Debug\net8.0\TP_Api.runtimeconfig.json
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\bin\Debug\net8.0\TP_Api.dll
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\bin\Debug\net8.0\TP_Api.pdb
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.AssemblyInfoInputs.cache
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.AssemblyInfo.cs
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.dll
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\refint\TP_Api.dll
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.pdb
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\TP_Api.genruntimeconfig.cache
+C:\Users\Mohamed TALEB\Desktop\projet_api\TP_Api\obj\Debug\net8.0\ref\TP_Api.dll
